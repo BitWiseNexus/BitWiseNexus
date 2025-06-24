@@ -8,7 +8,7 @@ I'm a **Developer & Designer** passionate about building impactful digital exper
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,next,tailwind,vite,nodejs,express,mongodb,firebase,figma,illustrator,canva,git,github,vscode,postman,netlify,render" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,next,tailwind,vite,nodejs,express,mongodb,firebase,figma,illustrator,git,github,vscode,postman,netlify,render" />
   </a>
 </p>
 
