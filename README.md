@@ -14,23 +14,6 @@ I'm a **Developer & Designer** passionate about building impactful digital exper
 
 ---
 
-### 🚀 Projects That Excite Me
- 
-- 📄 **Resume Builder** – Dynamic resume generator with editable sections  
-- 🧩 **QLI/Pricebook System** – CPQ solution using React‑Express‑Mongo  
-- 🎵 **Spotify Clone** – Music player UI with folder playlists  
-- 🔐 **Password Manager** – Secure, client‑only password vault  
-
----
-
-### ⚡ Currently Building
-
-- Full‑stack **CPQ System** for quote line item (QLI) management  
-- Backend engine for **Job Applications & Referrals**  
-- Student dashboards & profiles for the **CCPS Portal**  
-
----
-
 ### ✨ Connect With Me
 
 <p align="center">
