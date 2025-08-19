@@ -1,6 +1,7 @@
 ### Hi there, I'm Aditya Rehpade 👋
 
-I'm a **Developer & Designer** passionate about building impactful digital experiences. Currently pursuing B.Tech in Electrical Engineering from IIT Bhilai, I love full‑stack web dev, UI/UX design & community tech initiatives.
+I'm a **Full-Stack Developer & Designer** passionate about building impactful digital experiences.  
+Currently pursuing **B.Tech in Electrical Engineering at IIT Bhilai**, I specialize in full-stack web development, UI/UX design, and scalable system design.
 
 ---
 
@@ -8,7 +9,7 @@ I'm a **Developer & Designer** passionate about building impactful digital exper
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,next,tailwind,vite,nodejs,express,mongodb,firebase,figma,illustrator,git,github,vscode,postman,netlify,render" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,next,express,nodejs,mongodb,fastapi,docker,git,github,vscode,figma,illustrator" />
   </a>
 </p>
 
@@ -30,6 +31,6 @@ I'm a **Developer & Designer** passionate about building impactful digital exper
 
 ---
 
-> "I believe in the blend of logic and creativity. Code is art, and design is functionality."
+> "I believe in blending logic and creativity. Code is art, and design is functionality."
 
-Thanks for stopping by! Let’s build something awesome together. ✨
+Thanks for stopping by! Let’s build something awesome together. 🚀
