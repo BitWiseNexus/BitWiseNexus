@@ -1,7 +1,7 @@
 ### Hi there, I'm Aditya Rehpade 👋
 
 I'm a **Full-Stack Developer & Designer** passionate about building impactful digital experiences.  
-Currently pursuing **B.Tech IIT Bhilai**, I specialize in full-stack web development, UI/UX design, and scalable system design.
+Currently pursuing **B.Tech at IIT Bhilai**, I specialize in full-stack web development, UI/UX design, and scalable system design.
 
 ---
 
