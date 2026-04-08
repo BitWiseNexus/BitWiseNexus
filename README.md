@@ -28,6 +28,7 @@ const aditya = {
   learning : "Advanced RAG architectures · Network Simulations · System Design",
   openTo   : "Open-source collabs, internships, and hackathons",
 };
+```
 Tech Stack
 Languages
 <p>
