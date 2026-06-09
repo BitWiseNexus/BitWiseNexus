@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D0D0D,50:1a0030,100:FF2D78&amp;height=200&amp;section=header&amp;text=Aditya%20Rehpade&amp;fontSize=72&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%20%7C%20%20GenAI%20and%20ML%20%20%7C%20%20Data%20Science&amp;descAlignY=60&amp;descSize=16&amp;descColor=FF2D78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D0D0D,50:1a0030,100:FF2D78&amp;height=200&amp;section=header&amp;text=Aditya%20Rehpade&amp;fontSize=72&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Software%20Developer%20%20%7C%20%20GenAI%20and%20ML%20%20%7C%20%20Data%20Science&amp;descAlignY=64&amp;descSize=16&amp;descColor=FF2D78" width="100%"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-  I am a developer and designer passionate about building intelligent, scalable systems and contributing to open-source communities. Currently pursuing my B.Tech in Electrical Engineering at <strong>IIT Bhilai</strong>, my focus lies at the intersection of Generative AI, data analytics, and robust full-stack architecture.
+  I am a developer and designer passionate about building intelligent, scalable systems and contributing to open-source communities. Currently pursuing my B.Tech at <strong>IIT Bhilai</strong>, my focus lies at the intersection of Generative AI, data analytics, and robust full-stack architecture.
 </p>
 
 ---
