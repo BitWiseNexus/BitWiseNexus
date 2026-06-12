@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://portfolio-tau-lake-gl9jhirsc2.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/👽_Explore_My_Interactive_Portfolio_⌚-000000?style=for-the-badge&logo=vercel&logoColor=00FF40&labelColor=001a00" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio_⌚-000000?style=for-the-badge&logo=vercel&logoColor=00FF40&labelColor=001a00" alt="Portfolio" />
   </a>
 </div>
 
