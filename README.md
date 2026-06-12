@@ -12,6 +12,14 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://portfolio-tau-lake-gl9jhirsc2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/👽_Explore_My_Interactive_Portfolio_⌚-000000?style=for-the-badge&logo=vercel&logoColor=00FF40&labelColor=001a00" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
 <p align="center">
   I am a developer and designer passionate about building intelligent, scalable systems and contributing to open-source communities. Currently pursuing my B.Tech at <strong>IIT Bhilai</strong>, my focus lies at the intersection of Generative AI, data analytics, and robust full-stack architecture.
 </p>
@@ -81,6 +89,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bitwisenexus&color=FF2D78&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Discover more of my projects, system architectures, and designs at <b><a href="https://portfolio-tau-lake-gl9jhirsc2.vercel.app/" style="color:#00FF40;">my portfolio</a></b> .</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2D78,50:1a0030,100:0D0D0D&amp;height=120&amp;section=footer" width="100%"/>
